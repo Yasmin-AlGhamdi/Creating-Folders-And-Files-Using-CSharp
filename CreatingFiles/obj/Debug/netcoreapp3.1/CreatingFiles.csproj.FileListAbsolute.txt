@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\bin\Debug\netcoreapp3.1\CreatingFiles.exe
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\bin\Debug\netcoreapp3.1\CreatingFiles.deps.json
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\bin\Debug\netcoreapp3.1\CreatingFiles.runtimeconfig.json
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\bin\Debug\netcoreapp3.1\CreatingFiles.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\bin\Debug\netcoreapp3.1\CreatingFiles.dll
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\bin\Debug\netcoreapp3.1\CreatingFiles.pdb
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\obj\Debug\netcoreapp3.1\CreatingFiles.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\obj\Debug\netcoreapp3.1\CreatingFiles.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\obj\Debug\netcoreapp3.1\CreatingFiles.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\obj\Debug\netcoreapp3.1\CreatingFiles.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\obj\Debug\netcoreapp3.1\CreatingFiles.dll
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\obj\Debug\netcoreapp3.1\CreatingFiles.pdb
+C:\Users\Yasmin\source\repos\CreatingFiles\CreatingFiles\obj\Debug\netcoreapp3.1\CreatingFiles.genruntimeconfig.cache
